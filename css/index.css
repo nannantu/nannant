@@ -1,0 +1,256 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrap{
+    width: 100%;
+    background-color: rgb(255,253,247);
+}
+.header{
+    width: 1190px;
+    height: 55px;
+    border: 1px solid rgb(243, 245, 246);
+    margin: 0 auto;
+}
+.header-conten{
+    width: 914px;
+    height: 55px;
+    margin: 0 auto;
+    background-color: yellow;
+}
+.center{
+    width: 1190px;
+    height: 4044px;
+    margin: 0 auto;
+}
+.center .logo{
+    width: 270px;
+    height: 125px;
+    background-color: violet;
+    margin: 0 auto;
+}
+.center .logo img{
+    width: 270px;
+    padding: 29px 0;
+}
+.center .nav{
+    width: 1190px;
+    height: 465px;
+}
+.center .nav img{
+    width: 1190px;
+    height: 465px;
+}
+.nav .nav-img{
+    width: 914px;
+    height: 465px;
+    background-color: red;
+    margin: 0 auto;
+    margin-top: -465px;
+}
+.nav-conten{
+    width: 510px;
+    height: 150px;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: -307px;
+    border: 1px solid rgb(246, 246, 247);
+    position: relative;
+}
+.nav-conten .navconten-span{
+    width: 510px;
+    text-align: center;
+    margin-top: 33px;
+    color: rgb(195, 158, 136);
+    font-size: 17px;
+}
+.nav-conten h2{
+    text-align: center;
+    margin-top: 12px;
+    font-size: 25px;
+}
+.nav-conten p{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 13px;
+}
+.center .one{
+    width: 914px;
+    height: 174px;
+    margin: 0 auto;
+    margin-top: 47px;
+}
+.one .img{
+    width: 267px;
+    height: 152px;
+    background-color: white;
+    padding: 9px;
+    border: 3px solid rgb(190, 150, 126);
+    margin-left: 17px;
+    float: left;
+}
+.one .img .div{
+    width: 141px;
+    height: 42px;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: -95px;
+    position: relative;
+    font-size: 15px;
+    text-align: center;
+    line-height: 42px;
+}
+.center .two{
+    width: 914px;
+    height: 110px;
+    background-color: violet;
+    margin: 0 auto;
+    margin-top: 47px;
+}
+.center .three{
+    width: 914px;
+    background-color: red;
+    margin: 0 auto;
+}
+.center .left{
+    width: 602px;
+    height: 3076px;
+    float: left;
+}
+.center .left .left-conten{
+    width: 602px;
+    height: 166px;
+    background-color: white;
+    border: 1px solid rgb(246, 246, 247);
+}
+.center .left .left-conten .leftconten-span{
+    width: 602px;
+    text-align: center;
+    margin-top: 33px;
+    color: rgb(195, 158, 136);
+    font-size: 17px;
+}
+.center .left .left-conten h2{
+    text-align: center;
+    margin-top: 12px;
+    font-size: 25px;
+}
+.center .left .left-conten p{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 13px;
+}
+.left-center{
+    width: 602px;
+    height: 496px;
+    background-color: white;
+    float: left;
+}
+.left-center p{
+    text-align: center;
+    margin-top: 25px;
+    color: rgb(143, 143, 143);
+}
+.left-center .center-left{
+    width: 89px;
+    height: 28px;
+    border: 1px solid rgb(210, 182, 163);
+    border-radius: 15px;
+    text-align: center;
+    line-height: 28px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 185px;
+}
+.left-center .center-right{
+    width: 102px;
+    height: 24px;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 30px;
+    float: left;
+    border-left: 1px solid #bea277;
+}
+.left-tail{
+    width: 289px;
+    height: 462px;
+    float: left;
+    margin-left: 24px;
+}
+.lefttail-img{
+    width: 289px;
+    height: 207px;
+    background-color: violet;
+    float: left;
+    margin-top: 40px;
+}
+.left-tail h4{
+    color: #be967e;
+    margin-top: 14px;
+    float: left;
+}
+.left-tail h3{
+    margin-top: 15px;
+    float: left;
+}
+.left-tail p{
+    margin-top: 15px;
+    float: left;
+    line-height: 20px;
+}
+.left-tail .b{
+    width: 48px;
+    height: 16px;
+    float: left;
+    font-size: 12px;
+    margin-top: 15px;
+    border-bottom: 1px solid #d4b8a6;
+}
+.lefttail-end{
+    width: 602px;
+    float: left;
+    margin-top: 45px;
+}
+.lefttail-end .left-end{
+    width: 108px;
+    margin: 0 auto;
+}
+.lefttail-end .left-end .box{
+    width: 26px;
+    height: 26px;
+    text-align: center;
+    line-height: 26px;
+    border: 1px solid #e6e5e2;
+    float: left;
+    margin-left: 2px;
+}
+.center .right{
+    width: 312px;
+    height: 3076px;
+    background-color: green;
+    float: left;
+}
+.tail{
+    width: 1190px;
+    height: 405px;
+    margin: 0 auto;
+}
+.tail-header{
+    width: 1190px;
+    height: 200px;
+}
+.tail-header img{
+    width: 198px;
+    float: left;
+}
+.tail-tail{
+    width: 1190px;
+    height: 205px;
+    background-color: red;
+}
+.tail-conten{
+    width: 914px;
+    height: 205px;
+    background-color: violet;
+    margin: 0 auto;
+}
